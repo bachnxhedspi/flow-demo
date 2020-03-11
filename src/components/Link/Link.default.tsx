@@ -38,7 +38,7 @@ export const LinkDefault = ({
   return (
     <svg style={{ overflow: 'visible', position: 'absolute', cursor: 'pointer', left: 0, right: 0 }}>
       <circle
-        r="4"
+        r="2"
         cx={startPos.x}
         cy={startPos.y}
         fill="cornflowerblue"
